@@ -1,5 +1,5 @@
 Rodrigo Salas    https://github.com/r0dr190
-Esteban Perez
+Esteban Perez    https://github.com/stevenuhd
 Rolando Lazcano  https://github.com/rolando0312
 Luis Felipe Gonzalez https://github.com/allaccess28
 
